@@ -69,6 +69,6 @@ A very special thank you to:
 - _[Papier](https://github.com/robinmahieu), Project Management & Community Administration (2019-2020)_
 - **[Stephen](https://github.com/stephendadev), Project Management & Community Administration (2019-Present)**
 - _[DaZVise](https://github.com/Aloqeely), Project Management & Community Administration (2020-2021)_
-- **[Lorenzo](https://github.com/lorenzo132), Project Management & Community Administration & Core Development (2021-Present)**
+- **[Lorenzo](https://github.com/lorenzo132), Project Management & Community Administration & Core Development (2020-Present)**
 
 And those over the years who made frequent contributions (including but not limited to: **[RealCyGuy](https://github.com/RealCyGuy)**, _[Piyush](https://github.com/whopiyush), [WebKide](https://github.com/WebKide), [KarateWumpus](https://github.com/KarateWumpus), [andyondrya](https://github.com/andyondrya), [Jerrie-Aries](https://github.com/Jerrie-Aries)_, **[sebkuip](https://github.com/sebkuip), [Martin](https://github.com/martinbndr), [Zino](https://github.com/Zinoviya99)**).
