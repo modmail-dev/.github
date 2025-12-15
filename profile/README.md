@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![Modmail](https://img.shields.io/badge/Modmail-Bot-blue?style=for-the-badge\&logo=GitHub)](#)
-[![Modmail](https://img.shields.io/badge/Modmail-Logviewer-blue?style=for-the-badge\&logo=GitHub)](#)
+[![Modmail](https://img.shields.io/badge/Modmail-Bot-blue?style=for-the-badge\&logo=GitHub)](https://github.com/modmail-dev/modmail)
+[![Modmail](https://img.shields.io/badge/Modmail-Logviewer-blue?style=for-the-badge\&logo=GitHub)](https://github.com/modmail-dev/logviewer)
 [![Docs](https://img.shields.io/badge/Documentation-Online-success?style=for-the-badge\&logo=gitbook)](https://docs.modmail.dev)
 [![Discord](https://img.shields.io/badge/Join-Discord_Server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/nfErcs7mDM)
 </div>
